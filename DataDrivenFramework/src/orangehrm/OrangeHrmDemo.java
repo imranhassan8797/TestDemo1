@@ -25,7 +25,7 @@ public class OrangeHrmDemo {
 		System.out.println(urlData);
 		System.out.println(usernameData);
 		System.out.println(passwordData);
-		//Testy
+		//Testy1
 		
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
